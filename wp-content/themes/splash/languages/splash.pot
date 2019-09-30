@@ -1,0 +1,2688 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Splash\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-27 09:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: sportspress/player-gallery.php:126 partials/global/title-box.php:67
+msgid "#"
+msgstr ""
+
+#: includes/custom.php:481 includes/customizer/registration.php:802
+#: partials/global/donation-content.php:51
+#: partials/loop/donation-content-af.php:22
+msgid "$"
+msgstr ""
+
+#: admin/screens/system_status.php:142 admin/screens/system_status.php:178
+#: admin/screens/system_status.php:207
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:222
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+
+#: admin/screens/system_status.php:110
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:47
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br />"
+" To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</strong>"
+" file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+
+#: admin/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+
+#: admin/includes/admin_screens.php:148
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful."
+" Please register your purchase to get automatic theme updates, import %1$s "
+"demos and install premium plugins. Read below for additional information. We "
+"hope you enjoy it! %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class/Customizer_Additional.php:172
+#: includes/class/Customizer_Additional.php:198
+msgid "+1 234 567 890"
+msgstr ""
+
+#: sportspress/event-blocks.php:251 sportspress/event-blocks.php:255
+#: sportspress/event-blocks.php:286 sportspress/event-blocks.php:321
+#: sportspress/event-blocks.php:325 sportspress/stm-event-block.php:155
+#: sportspress/stm-event-block.php:160 sportspress/stm-event-block.php:192
+#: sportspress/stm-event-block.php:197 sportspress/event-logos.php:170
+msgid "- -"
+msgstr ""
+
+#: sportspress/event-blocks.php:263 sportspress/event-blocks.php:308
+#: sportspress/stm-event-block.php:168 sportspress/stm-event-block.php:177
+#: sportspress/event-logos.php:191
+msgid "- VS -"
+msgstr ""
+
+#: sportspress/event-list.php:132 sportspress/event-list.php:506
+#: sportspress/widget-event-list.php:117 sportspress/stm-event-list.php:69
+msgid "- vs -"
+msgstr ""
+
+#: includes/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr ""
+
+#: includes/widgets/recent_posts.php:94
+msgid "3"
+msgstr ""
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: includes/customizer/registration.php:1082
+msgid "404 page settings"
+msgstr ""
+
+#: comments.php:66
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Logged in as %2$s</a> <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: includes/widgets/stm-event-list.php:5
+msgid "A list of events."
+msgstr ""
+
+#: admin/screens/startup.php:69
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+
+#: partials/global/post-content.php:139 partials/global/post-content.php:160
+#: partials/global/post-content.php:178
+msgid "About Author"
+msgstr ""
+
+#: partials/global/post-content.php:126
+msgid "About the Author:"
+msgstr ""
+
+#: admin/includes/theme.php:196
+msgid "Activate"
+msgstr ""
+
+#: admin/screens/system_status.php:254 admin/screens/system_status.php:259
+msgid "Active Plugins"
+msgstr ""
+
+#: woocommerce/content-product.php:170
+#: partials/loop/product-carousel-soccer.php:53
+msgid "ADD"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Add a review"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:129
+#: includes/megamenu/admin/includes/config.php:148
+msgid "Add image"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+msgid "Add review"
+msgstr ""
+
+#: partials/loop/product-carousel-soccer-two.php:36
+#: partials/loop/product-carousel.php:36
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:66
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: vc_templates/stm_contact_info.php:42
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/contacts.php:148
+msgid "Address:"
+msgstr ""
+
+#: includes/customizer/registration.php:836
+msgid "Admin E-mail Message"
+msgstr ""
+
+#: includes/customizer/registration.php:831
+msgid "Admin E-mail subject"
+msgstr ""
+
+#: sportspress/team-staff.php:91
+msgid "Age:"
+msgstr ""
+
+#: vc_templates/stm_latest_news.php:27 vc_templates/stm_media_tabs.php:92
+#: partials/global/media-archive.php:90
+#: partials/global/sportspress/player-media.php:52
+msgid "All"
+msgstr ""
+
+#: partials/global/modals/donation.php:33
+msgid "Amount(USD) *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:110
+msgid "Anti-spam"
+msgstr ""
+
+#: vc_templates/stm_players_tabs.php:79
+msgid "Appearances"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply Coupon"
+msgstr ""
+
+#: includes/customizer/registration.php:1006
+msgid "Archive shop items per row"
+msgstr ""
+
+#: sportspress/event-list.php:246 sportspress/event-list.php:721
+msgid "Article"
+msgstr ""
+
+#: vc_templates/stm_media_tabs.php:105 partials/global/media-archive.php:103
+#: partials/global/sportspress/player-media.php:65
+msgid "Audio"
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Average"
+msgstr ""
+
+#: sportspress/event-list.php:200 sportspress/event-list.php:675
+msgid "Away"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:79
+msgid "Back to shop"
+msgstr ""
+
+#: includes/customizer/registration.php:213
+#: partials/global/frontend_customizer.php:45
+msgid "Background Image"
+msgstr ""
+
+#: includes/customizer/registration.php:1085
+msgid "Background image"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:14
+msgid "Baseball"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:15
+msgid "Basketball"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/customizer/registration.php:14
+msgid "Behance"
+msgstr ""
+
+#: includes/customizer/registration.php:721
+#: includes/customizer/registration.php:871
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer/registration.php:155
+#: includes/class/Customizer_Additional.php:64
+msgid "Blue"
+msgstr ""
+
+#: includes/customizer/registration.php:156
+#: includes/class/Customizer_Additional.php:65
+msgid "Blue Violet"
+msgstr ""
+
+#: includes/customizer/registration.php:335
+msgid "Body Font Color"
+msgstr ""
+
+#: includes/customizer/registration.php:312
+msgid "Body Font Family"
+msgstr ""
+
+#: includes/customizer/registration.php:317
+msgid "Body Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:327
+msgid "Body Line Height"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr ""
+
+#: includes/setup.php:164
+msgid "Bottom Widget menu"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:38
+#: includes/megamenu/admin/includes/config.php:13
+msgid "Boxed"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:47
+#: includes/class/Customizer_Additional.php:100
+#: includes/class/Customizer_Additional.php:133
+#: partials/header/top-bar-partials/top-bar-ticker.php:16
+msgid "Breaking news"
+msgstr ""
+
+#: sportspress/event-results-as-header.php:193
+msgid "Buy Tickets"
+msgstr ""
+
+#: admin/screens/system_status.php:291
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: partials/global/title-box.php:197
+msgid "by:"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:25
+msgid "Calculate Shipping"
+msgstr ""
+
+#: vc_templates/stm_carousel_with_data.php:63
+msgid "Capacity"
+msgstr ""
+
+#: partials/header/header-four.php:95
+#: partials/header/top-bar-partials/top-bar-cart.php:28
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:144
+msgid "Cart Totals"
+msgstr ""
+
+#: includes/customizer/registration.php:618
+msgid "Center"
+msgstr ""
+
+#: includes/customizer/registration.php:157
+#: includes/class/Customizer_Additional.php:66
+msgid "Choco"
+msgstr ""
+
+#: includes/customizer/registration.php:739
+#: includes/customizer/registration.php:889
+msgid "Choose archive sidebar"
+msgstr ""
+
+#: includes/customizer/registration.php:745
+#: includes/customizer/registration.php:895
+msgid "Choose default sidebar for single blog post"
+msgstr ""
+
+#: includes/customizer/registration.php:984
+msgid "Choose league"
+msgstr ""
+
+#: includes/customizer/registration.php:917
+msgid "Choose media sidebar"
+msgstr ""
+
+#: includes/customizer/registration.php:977
+msgid "Choose season"
+msgstr ""
+
+#: includes/customizer/registration.php:1016
+msgid "Choose shop sidebar"
+msgstr ""
+
+#: includes/customizer/registration.php:767
+msgid "Choose sidebar"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:41
+msgid "Clear"
+msgstr ""
+
+#: admin/screens/startup.php:67
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+
+#: partials/global/frontend_customizer.php:18
+msgid "Club News"
+msgstr ""
+
+#: sportspress/team-staff.php:21
+msgid "Coaching Staff"
+msgstr ""
+
+#: sportspress/team-staff.php:97
+msgid "College:"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:60
+msgid "Color Skin"
+msgstr ""
+
+#. Name of the template
+msgid "Coming soon"
+msgstr ""
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: partials/loop/content-grid-vc-baseball.php:38
+#: partials/loop/content-grid-vc-baseball.php:45
+#: partials/loop/content-list-baseball.php:66
+#: partials/loop/content-list-baseball.php:73
+#: partials/loop/content-grid-baseball.php:52
+#: partials/loop/content-grid-baseball.php:59
+#: partials/loop/content-list.php:107 partials/loop/content-list.php:114
+#: partials/loop/content-grid.php:108 partials/loop/content-grid.php:115
+msgid "comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: admin/screens/support.php:86
+msgid "Community Forum"
+msgstr ""
+
+#: includes/woocommerce.php:61 includes/woocommerce.php:70
+msgid "Company Name"
+msgstr ""
+
+#: sportspress/event-list.php:237 sportspress/event-list.php:712
+msgid "Competition"
+msgstr ""
+
+#: partials/global/donation-content.php:59
+#: partials/loop/donation-content-af.php:28
+#: partials/loop/donation-content.php:27
+msgid "Completed"
+msgstr ""
+
+#: includes/customizer/registration.php:843
+msgid "Confirmation of donation for [donation]"
+msgstr ""
+
+#: includes/widgets/contacts.php:115
+msgid "Contact"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: includes/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: coming-soon.php:26 includes/customizer/registration.php:668
+#: partials/footer/footer-bottom.php:4 partials/footer/footer-bottom.php:8
+#: partials/header/header-four.php:127
+msgid "Copyright (c) 2016 Splash."
+msgstr ""
+
+#: woocommerce/cart/cart.php:157
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:34 woocommerce/cart/cart.php:158
+msgid "Coupon code"
+msgstr ""
+
+#: admin/screens/support.php:18
+msgid "Create A Support Account"
+msgstr ""
+
+#: includes/customizer/registration.php:1070
+msgid "CSS"
+msgstr ""
+
+#: admin/screens/system_status.php:114
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+
+#: includes/customizer/registration.php:198
+msgid "Custom Base Color"
+msgstr ""
+
+#: includes/customizer/registration.php:224
+msgid "Custom Bg Image"
+msgstr ""
+
+#: includes/customizer/registration.php:228
+msgid "Custom Bg Image Pattern"
+msgstr ""
+
+#: includes/customizer/registration.php:164
+#: includes/customizer/registration.php:171
+#: includes/customizer/registration.php:176
+#: includes/class/Customizer_Additional.php:20
+#: includes/class/Customizer_Additional.php:73
+msgid "Custom Color"
+msgstr ""
+
+#: includes/customizer/registration.php:203
+msgid "Custom Secondary Color"
+msgstr ""
+
+#: sportspress/event-list.php:187 sportspress/event-list.php:661
+msgid "Date"
+msgstr ""
+
+#: includes/customizer/registration.php:848
+msgid "Dear [name]. Thank you for your donation."
+msgstr ""
+
+#: includes/customizer/registration.php:154
+#: includes/customizer/registration.php:168
+#: includes/customizer/registration.php:175
+#: includes/class/Customizer_Additional.php:19
+#: includes/class/Customizer_Additional.php:63
+#: includes/megamenu/admin/includes/config.php:25
+#: includes/megamenu/admin/includes/config.php:48
+#: includes/megamenu/admin/includes/config.php:71
+#: includes/megamenu/admin/includes/config.php:94
+msgid "Default"
+msgstr ""
+
+#: admin/screens/system_status.php:216
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+
+#: includes/customizer/registration.php:21
+msgid "Delicious"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:11
+msgid "Demos"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:12
+msgid "Disabled"
+msgstr ""
+
+#: admin/screens/system_status.php:59
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/screens/support.php:49
+msgid "Documentation"
+msgstr ""
+
+#: partials/global/modals/donation.php:43
+msgid "Donate"
+msgstr ""
+
+#: partials/global/donation-content.php:77
+msgid "Donate now"
+msgstr ""
+
+#: partials/loop/donation-content.php:35
+msgid "Donated"
+msgstr ""
+
+#: partials/global/donation-content.php:51
+#: partials/loop/donation-content-af.php:22
+msgid "donated of"
+msgstr ""
+
+#: includes/customizer/registration.php:800
+msgid "Donation Currency"
+msgstr ""
+
+#: includes/customizer/registration.php:763
+msgid "Donations"
+msgstr ""
+
+#: includes/custom.php:479 includes/customizer/registration.php:792
+msgid "Donors"
+msgstr ""
+
+#: includes/customizer/registration.php:790
+msgid "Donors text"
+msgstr ""
+
+#: includes/customizer/registration.php:15
+msgid "Dribbble"
+msgstr ""
+
+#: includes/customizer/registration.php:23
+msgid "Dropbox"
+msgstr ""
+
+#: includes/custom.php:421
+msgid "E-mail"
+msgstr ""
+
+#: partials/global/modals/donation.php:27
+msgid "E-mail *"
+msgstr ""
+
+#: includes/widgets/contacts.php:168
+msgid "E-mail:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84 includes/woocommerce.php:62
+#: vc_templates/stm_contact_info.php:66
+#: includes/class/Customizer_Additional.php:175
+#: includes/class/Customizer_Additional.php:201
+msgid "Email"
+msgstr ""
+
+#: vc_templates/stm_contact_manager.php:52
+msgid "Email: "
+msgstr ""
+
+#: includes/customizer/registration.php:208
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: includes/customizer/registration.php:644
+msgid "Enable Footer Bottom"
+msgstr ""
+
+#: includes/customizer/registration.php:649
+msgid "Enable Footer Bottom Menu"
+msgstr ""
+
+#: includes/customizer/registration.php:478
+msgid "Enable Search"
+msgstr ""
+
+#: includes/customizer/registration.php:456
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: admin/screens/startup.php:68
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Enter a new password below."
+msgstr ""
+
+#: includes/customizer/registration.php:146
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart-totals.php:180
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: sportspress/event-list.php:212 sportspress/event-list.php:687
+msgid "Event"
+msgstr ""
+
+#: includes/customizer/registration.php:960
+msgid "Event Bg Image"
+msgstr ""
+
+#: includes/customizer/registration.php:950
+msgid "Event block view"
+msgstr ""
+
+#: includes/customizer/registration.php:940
+msgid "Event list view"
+msgstr ""
+
+#: includes/customizer/registration.php:811
+msgid "Ex.: USD"
+msgstr ""
+
+#: sportspress/team-staff.php:103
+msgid "Experience:"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: includes/customizer/registration.php:10
+msgid "Facebook"
+msgstr ""
+
+#: vc_templates/stm_contact_info.php:58
+msgid "Fax"
+msgstr ""
+
+#: includes/widgets/contacts.php:156
+msgid "Fax:"
+msgstr ""
+
+#: includes/setup.php:39
+msgctxt "Fira Sans Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/setup.php:46
+msgctxt "Fira Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/woocommerce.php:59 includes/woocommerce.php:68
+msgid "First Name"
+msgstr ""
+
+#: includes/customizer/registration.php:16
+msgid "Flickr"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/follow_us.php:11 includes/widgets/follow_us.php:88
+msgid "Follow Us"
+msgstr ""
+
+#: includes/widgets/follow_us.php:12
+msgid "Follow Us widget"
+msgstr ""
+
+#: includes/customizer/registration.php:695
+#: partials/footer/footer-bottom.php:17
+msgid "Follow Us:"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:16
+msgid "Football"
+msgstr ""
+
+#: includes/setup.php:179 includes/customizer/registration.php:94
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer/registration.php:625
+msgid "Footer background color"
+msgstr ""
+
+#: includes/customizer/registration.php:579
+msgid "Footer Background Image"
+msgstr ""
+
+#: includes/customizer/registration.php:640
+msgid "Footer bottom"
+msgstr ""
+
+#: includes/customizer/registration.php:654
+msgid "Footer Bottom background color"
+msgstr ""
+
+#: includes/customizer/registration.php:631
+#: includes/customizer/registration.php:660
+#: includes/customizer/registration.php:687
+msgid "Footer Bottom text color"
+msgstr ""
+
+#: includes/customizer/registration.php:607
+msgid "Footer Call to action link"
+msgstr ""
+
+#: includes/customizer/registration.php:603
+msgid "Footer Call to action link text"
+msgstr ""
+
+#: includes/customizer/registration.php:599
+msgid "Footer Call to action text"
+msgstr ""
+
+#: includes/customizer/registration.php:615
+msgid "Footer Call to action text position"
+msgstr ""
+
+#: includes/customizer/registration.php:591
+msgid "Footer Image"
+msgstr ""
+
+#: includes/customizer/registration.php:595
+msgid "Footer Logo (use with footer style two)"
+msgstr ""
+
+#: includes/customizer/registration.php:566
+msgid "Footer style"
+msgstr ""
+
+#: includes/customizer/registration.php:573
+msgid "Footer style one"
+msgstr ""
+
+#: includes/customizer/registration.php:574
+msgid "Footer style two"
+msgstr ""
+
+#: includes/customizer/registration.php:611
+msgid "Footer subtext"
+msgstr ""
+
+#: includes/setup.php:181
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: includes/customizer/registration.php:232
+msgid "Frontend Customizer"
+msgstr ""
+
+#: vc_templates/stm_league_table_with_ajax.php:19
+#: vc_templates/stm_results_table_ajax.php:15
+msgid "Full table"
+msgstr ""
+
+#: vc_templates/stm_af_latest_result.php:672
+msgid "GET TICKETS"
+msgstr ""
+
+#: includes/customizer/registration.php:17
+msgid "Git"
+msgstr ""
+
+#: 404.php:20
+msgid "go to home"
+msgstr ""
+
+#: includes/custom.php:480 includes/customizer/registration.php:797
+msgid "Goal"
+msgstr ""
+
+#: includes/customizer/registration.php:795
+msgid "Goal text"
+msgstr ""
+
+#: sportspress/event-logos.php:338 sportspress/event-logos.php:395
+#: sportspress/event-results-as-header.php:91
+#: sportspress/event-results-as-header.php:149
+#: vc_templates/stm_af_latest_result.php:330
+#: vc_templates/stm_af_latest_result.php:470
+msgid "goal(s)"
+msgstr ""
+
+#: includes/customizer/registration.php:158
+#: includes/class/Customizer_Additional.php:67
+msgid "Gold"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Good"
+msgstr ""
+
+#: includes/customizer/registration.php:26
+msgid "Google"
+msgstr ""
+
+#: includes/customizer/registration.php:27
+msgid "Google +"
+msgstr ""
+
+#: includes/customizer/registration.php:144
+msgid "Google API Key"
+msgstr ""
+
+#: includes/customizer/registration.php:139
+msgid "Google Api Settings"
+msgstr ""
+
+#: includes/customizer/registration.php:159
+#: includes/class/Customizer_Additional.php:68
+msgid "Green"
+msgstr ""
+
+#: includes/customizer/registration.php:728
+#: includes/customizer/registration.php:878
+msgid "Grid"
+msgstr ""
+
+#: includes/customizer/registration.php:360
+msgid "H1 Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:370
+msgid "H2 Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:380
+msgid "H3 Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:390
+msgid "H4 Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:400
+msgid "H5 Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:410
+msgid "H6 Font Size"
+msgstr ""
+
+#: includes/customizer/registration.php:90
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/registration.php:430
+msgid "Header 1"
+msgstr ""
+
+#: includes/customizer/registration.php:431
+msgid "Header 2"
+msgstr ""
+
+#: includes/customizer/registration.php:432
+msgid "Header 3"
+msgstr ""
+
+#: includes/customizer/registration.php:447
+msgid "Header Appearance"
+msgstr ""
+
+#: includes/customizer/registration.php:465
+msgid "Header Background"
+msgstr ""
+
+#: includes/customizer/registration.php:440
+msgid "Header Magazine One"
+msgstr ""
+
+#: includes/setup.php:163
+msgid "Header menu"
+msgstr ""
+
+#: includes/customizer/registration.php:451
+msgid "Header type"
+msgstr ""
+
+#: includes/customizer/registration.php:433
+msgid "Header With Vertical Menu"
+msgstr ""
+
+#: includes/customizer/registration.php:353
+msgid "Headings Color"
+msgstr ""
+
+#: includes/customizer/registration.php:348
+msgid "Headings Font Family"
+msgstr ""
+
+#: includes/customizer/registration.php:1035
+#: includes/customizer/registration.php:1050
+msgid "Hide"
+msgstr ""
+
+#: includes/customizer/registration.php:972
+msgid "Hide player title"
+msgstr ""
+
+#: sportspress/event-list.php:192 sportspress/event-list.php:666
+#: includes/class/Split_Menu_Walker.php:53
+#: includes/class/Split_Menu_Walker.php:61 partials/header/header-second.php:77
+#: partials/header/header-second.php:85
+#: partials/header/header-magazine-one.php:52
+#: partials/header/header-magazine-one.php:60
+#: partials/header/header-magazine-one.php:99
+#: partials/header/header-magazine-one.php:107
+#: partials/header/header-default.php:47 partials/header/header-default.php:55
+#: partials/header/header-default.php:94 partials/header/header-default.php:102
+#: partials/header/header-third-soccer.php:44
+#: partials/header/header-third-soccer.php:52
+#: partials/header/header-third-soccer.php:103
+#: partials/header/header-third-soccer.php:111
+#: partials/header/top-bar-baseball.php:31
+#: partials/header/top-bar-baseball.php:40
+#: partials/header/top-bar-baseball.php:47
+#: partials/header/top-bar-baseball.php:87
+#: partials/header/top-bar-baseball.php:96
+#: partials/header/top-bar-baseball.php:103 partials/header/header-third.php:46
+#: partials/header/header-third.php:54 partials/header/header-third.php:93
+#: partials/header/header-third.php:101
+#: partials/header/header-magazine-two.php:49
+#: partials/header/header-magazine-two.php:57
+#: partials/header/header-magazine-two.php:96
+#: partials/header/header-magazine-two.php:104
+#: includes/megamenu/includes/walker.php:136
+msgid "Home"
+msgstr ""
+
+#: admin/screens/system_status.php:21
+msgid "Home URL:"
+msgstr ""
+
+#. URI of the theme
+msgid "http://splash.stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: vc_templates/stm_media_tabs.php:98 partials/global/media-archive.php:96
+#: partials/global/sportspress/player-media.php:58
+msgid "Images"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:177
+#: includes/class/Customizer_Additional.php:203
+msgid "info@splash.com"
+msgstr ""
+
+#: admin/screens/system_status.php:86
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: includes/customizer/registration.php:13
+msgid "Instagram"
+msgstr ""
+
+#: admin/includes/theme.php:194
+msgid "Install"
+msgstr ""
+
+#: admin/includes/admin_screens.php:161 admin/includes/admin_screens.php:168
+msgid "Install Demos"
+msgstr ""
+
+#: admin/screens/startup.php:65
+msgid "Instructions For Generating A Token"
+msgstr ""
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: partials/header/top-bar-partials/top-bar-cart.php:19
+msgid "items"
+msgstr ""
+
+#: admin/screens/system_status.php:69
+msgid "Language:"
+msgstr ""
+
+#: includes/woocommerce.php:60 includes/woocommerce.php:69
+msgid "Last Name"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:34
+msgid "Layout"
+msgstr ""
+
+#: partials/loop/donation-content.php:48
+msgid "Learn More"
+msgstr ""
+
+#: admin/screens/support.php:55
+msgid "Learn more"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/customizer/registration.php:80
+#: includes/customizer/registration.php:619
+#: includes/customizer/registration.php:754
+#: includes/customizer/registration.php:776
+#: includes/customizer/registration.php:904
+#: includes/customizer/registration.php:926
+#: includes/customizer/registration.php:1025
+msgid "Left"
+msgstr ""
+
+#: includes/customizer/registration.php:666
+msgid "Left text"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr ""
+
+#: includes/customizer/registration.php:18
+msgid "Linkedin"
+msgstr ""
+
+#: includes/customizer/registration.php:729
+#: includes/customizer/registration.php:879
+msgid "List"
+msgstr ""
+
+#: includes/customizer/registration.php:823
+msgid "Live"
+msgstr ""
+
+#: vc_templates/stm_images_grid.php:71
+msgid "Load more"
+msgstr ""
+
+#: vc_templates/stm_carousel_with_data.php:47
+msgid "Location"
+msgstr ""
+
+#: partials/header/top-bar-partials/top-bar-profile-soccer-two.php:10
+#: partials/header/top-bar-partials/top-bar-profile-magazine-two.php:10
+#: partials/header/top-bar-partials/top-bar-profile.php:10
+msgid "Log In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:58
+msgid "Login"
+msgstr ""
+
+#: includes/customizer/registration.php:109
+#: includes/class/Split_Menu_Walker.php:62 partials/header/header-second.php:86
+#: partials/header/header-magazine-one.php:61
+#: partials/header/header-magazine-one.php:108
+#: partials/header/header-default.php:56 partials/header/header-default.php:103
+#: partials/header/header-third-soccer.php:53
+#: partials/header/header-third-soccer.php:112
+#: partials/header/top-bar-baseball.php:41
+#: partials/header/top-bar-baseball.php:48
+#: partials/header/top-bar-baseball.php:97
+#: partials/header/top-bar-baseball.php:104 partials/header/header-third.php:55
+#: partials/header/header-third.php:102
+#: partials/header/header-magazine-two.php:58
+#: partials/header/header-magazine-two.php:105
+#: includes/megamenu/includes/walker.php:137
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer/registration.php:104
+msgid "Logo &amp; Title"
+msgstr ""
+
+#: includes/customizer/registration.php:473
+msgid "Logo margin top (px)"
+msgstr ""
+
+#: includes/customizer/registration.php:113
+msgid "Logo Width (px)"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:26
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: includes/customizer/registration.php:587
+msgid "Main settings"
+msgstr ""
+
+#: includes/setup.php:171
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: sportspress/event-list.php:723
+msgid "Match Day"
+msgstr ""
+
+#: admin/screens/system_status.php:247
+msgid "Max Upload Size:"
+msgstr ""
+
+#: includes/customizer/registration.php:913
+#: partials/global/media-archive.php:83
+msgid "Media"
+msgstr ""
+
+#: includes/customizer/registration.php:923
+msgid "Media Sidebar position"
+msgstr ""
+
+#: includes/custom.php:956
+msgid "Media type"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:147
+msgid "Megamenu background"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:66
+msgid "Megamenu child columns width"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:43
+#: includes/megamenu/admin/includes/config.php:89
+msgid "Megamenu column width"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:20
+msgid "Megamenu columns width"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:120
+msgid "Megamenu icon"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:128
+msgid "Megamenu image"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:158
+msgid "Megamenu text repeater"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:139
+msgid "Megamenu textarea"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:7
+msgid "Megamenu type"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:112
+msgid "Megamenu use logo"
+msgstr ""
+
+#: includes/customizer/registration.php:469
+msgid "Menu margin top (px)"
+msgstr ""
+
+#: partials/global/modals/donation.php:39
+msgid "Message *"
+msgstr ""
+
+#: partials/loop/donation-content-af.php:44
+msgid "More Info"
+msgstr ""
+
+#: vc_templates/stm_news_tabs.php:75
+msgid "More News"
+msgstr ""
+
+#: admin/screens/system_status.php:236
+msgid "MySQL Version:"
+msgstr ""
+
+#: includes/ajax-actions.php:239 vc_templates/stm_league_table.php:64
+msgid "N."
+msgstr ""
+
+#: sportspress/player-details.php:144
+msgid "N:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82 includes/custom.php:416
+#: woocommerce/cart/cart.php:35
+msgid "Name"
+msgstr ""
+
+#: partials/global/modals/donation.php:17
+msgid "Name *"
+msgstr ""
+
+#: sportspress/team-staff.php:61
+msgid "Nationality"
+msgstr ""
+
+#: sportspress/team-staff.php:108
+msgid "Nationality:"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:23
+msgid "Nav Mode"
+msgstr ""
+
+#: includes/ajax-actions.php:76
+msgid "New donation"
+msgstr ""
+
+#: includes/customizer/registration.php:833
+msgid "New Donation for [donation]"
+msgstr ""
+
+#: includes/ajax-actions.php:76
+msgid "New donation, please check it."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "New password"
+msgstr ""
+
+#: includes/customizer/registration.php:838
+msgid ""
+"New payment for [donation]. Donor Info: Name:[name]; Phone:[phone]; E-mail:"
+"[email]; Amount:[amount]"
+msgstr ""
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/customizer/registration.php:734
+#: includes/customizer/registration.php:884
+msgid "News grid columns"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:39
+#: includes/class/Customizer_Additional.php:92
+#: includes/class/Customizer_Additional.php:125
+msgid "News Ticker Link To the Post Page"
+msgstr ""
+
+#: vc_templates/stm_media_tabs.php:183 partials/global/media-archive.php:236
+msgid "No Media found"
+msgstr ""
+
+#: vc_templates/stm_news_tabs.php:82 vc_templates/stm_latest_news.php:70
+#: vc_templates/stm_latest_news.php:104
+msgid "No news in this category"
+msgstr ""
+
+#: index.php:53 archive-donation.php:31
+msgid "No Results"
+msgstr ""
+
+#: includes/customizer/registration.php:66
+msgid "No sliders found"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Not that bad"
+msgstr ""
+
+#: includes/custom.php:440
+msgctxt "noun"
+msgid "Message"
+msgstr ""
+
+#: comments.php:43
+msgid "Older Comments"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: includes/setup.php:55
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: vc_templates/stm_carousel_with_data.php:89
+msgid "Opened"
+msgstr ""
+
+#: includes/customizer/registration.php:160
+#: includes/customizer/registration.php:169
+#: includes/class/Customizer_Additional.php:69
+msgid "Orange"
+msgstr ""
+
+#: includes/setup.php:24 includes/setup.php:32 includes/setup.php:62
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/screens/support.php:89
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+
+#: admin/screens/support.php:52
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: includes/widgets/recent_posts.php:103
+msgid "Output number:"
+msgstr ""
+
+#: includes/custom.php:213
+msgid "Page"
+msgstr ""
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: includes/customizer/registration.php:854
+msgid "Pages"
+msgstr ""
+
+#: includes/custom.php:209
+msgid "Pages:"
+msgstr ""
+
+#: sportspress/team-staff.php:118
+msgid "Past Teams:"
+msgstr ""
+
+#: includes/customizer/registration.php:808
+msgid "Paypal Currency"
+msgstr ""
+
+#: includes/customizer/registration.php:814
+msgid "Paypal Email"
+msgstr ""
+
+#: includes/customizer/registration.php:819
+msgid "Paypal mode"
+msgstr ""
+
+#: vc_templates/stm_player_statistic.php:154
+msgid "per game"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Perfect"
+msgstr ""
+
+#: includes/woocommerce.php:63 vc_templates/stm_contact_info.php:50
+#: includes/class/Customizer_Additional.php:170
+#: includes/class/Customizer_Additional.php:196
+msgid "Phone"
+msgstr ""
+
+#: partials/global/modals/donation.php:21
+msgid "Phone *"
+msgstr ""
+
+#: includes/widgets/contacts.php:152
+msgid "Phone:"
+msgstr ""
+
+#: admin/screens/system_status.php:121
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:98
+msgid "PHP Post Max Size:"
+msgstr ""
+
+#: admin/screens/system_status.php:103
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/screens/system_status.php:90
+msgid "PHP Version:"
+msgstr ""
+
+#: includes/customizer/registration.php:19
+msgid "Pinterest"
+msgstr ""
+
+#: woocommerce/single-product/product-image-old.php:51
+msgid "Placeholder"
+msgstr ""
+
+#: partials/global/sportspress/player-media.php:46
+msgid "Player Media"
+msgstr ""
+
+#: includes/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: includes/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: admin/screens/install_demo.php:25 admin/screens/startup.php:21
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:29
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: admin/includes/admin_screens.php:77 admin/includes/admin_screens.php:78
+#: admin/includes/admin_screens.php:159 admin/includes/admin_screens.php:170
+msgid "Plugins"
+msgstr ""
+
+#: includes/woocommerce.php:66 includes/woocommerce.php:73
+msgid "Postcode/ZIP"
+msgstr ""
+
+#: sportspress/event-blocks.php:491 sportspress/event-list.php:634
+msgid "PREVIEW"
+msgstr ""
+
+#: sportspress/event-blocks.php:401 sportspress/event-list.php:466
+#: sportspress/event-list.php:954
+msgid "Preview"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:101
+msgid "Price"
+msgstr ""
+
+#: includes/setup.php:169
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/customizer/registration.php:708
+msgid "Primary sidebar"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:35
+#: woocommerce/cart/cart.php:83
+msgid "Product"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: admin/includes/admin_screens.php:155
+msgid "Product Registration"
+msgstr ""
+
+#: partials/header/top-bar-partials/top-bar-profile-soccer-two.php:10
+#: partials/header/top-bar-partials/top-bar-profile-magazine-two.php:10
+#: partials/header/top-bar-partials/top-bar-profile.php:10
+msgid "Profile"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:107
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:16
+msgid "Quantity"
+msgstr ""
+
+#: partials/vc_templates_views/stm-af-player-statistic-default.php:138
+msgid "Quick stats"
+msgstr ""
+
+#: includes/custom.php:478 includes/customizer/registration.php:787
+msgid "Raised"
+msgstr ""
+
+#: includes/customizer/registration.php:785
+msgid "Raised money text"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Re-enter new password"
+msgstr ""
+
+#: vc_templates/stm_post_slider.php:58
+msgid "Read more"
+msgstr ""
+
+#: sportspress/event-list.php:170 sportspress/event-list.php:544
+#: sportspress/stm-event-list.php:107 vc_templates/stm_af_latest_result.php:492
+msgid "read more"
+msgstr ""
+
+#: sportspress/event-blocks.php:491 sportspress/event-list.php:634
+msgid "RECAP"
+msgstr ""
+
+#: sportspress/event-blocks.php:399 sportspress/event-list.php:464
+#: sportspress/event-list.php:952
+msgid "Recap"
+msgstr ""
+
+#: includes/widgets/recent_posts.php:88
+msgid "Recent posts"
+msgstr ""
+
+#: includes/customizer/registration.php:170
+msgid "Red"
+msgstr ""
+
+#: includes/customizer/registration.php:24
+msgid "Reddit"
+msgstr ""
+
+#: includes/ajax-actions.php:82
+msgid "Redirecting to Paypal."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:120
+msgid "Register"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr ""
+
+#: partials/global/sportspress/player-related.php:35
+msgid "Related Players"
+msgstr ""
+
+#: woocommerce/single-product/related.php:39
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:130
+#: includes/megamenu/admin/includes/config.php:149
+msgid "Remove image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:63 woocommerce/cart/cart.php:136
+msgid "Remove this item"
+msgstr ""
+
+#: vc_templates/stm_carousel_with_data.php:100
+msgid "Renovated"
+msgstr ""
+
+#: includes/megamenu/admin/includes/config.php:131
+#: includes/megamenu/admin/includes/config.php:150
+msgid "Replace image"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:54
+msgid "Reset Password"
+msgstr ""
+
+#: sportspress/event-list.php:197 sportspress/event-list.php:220
+#: sportspress/event-list.php:228 sportspress/event-list.php:671
+#: sportspress/event-list.php:695 sportspress/event-list.php:703
+msgid "Results"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: includes/customizer/registration.php:81
+#: includes/customizer/registration.php:620
+#: includes/customizer/registration.php:755
+#: includes/customizer/registration.php:777
+#: includes/customizer/registration.php:905
+#: includes/customizer/registration.php:927
+#: includes/customizer/registration.php:1026
+msgid "Right"
+msgstr ""
+
+#: includes/customizer/registration.php:671
+msgid "Right text"
+msgstr ""
+
+#: includes/setup.php:54 includes/setup.php:70
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/setup.php:25 includes/setup.php:71
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/setup.php:63
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/customizer/registration.php:822
+msgid "Sandbox"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:54
+msgid "Save"
+msgstr ""
+
+#: vc_templates/stm_contact_info.php:89
+msgid "Schedule"
+msgstr ""
+
+#: includes/widgets/contacts.php:160
+msgid "Schedule:"
+msgstr ""
+
+#: includes/custom.php:518 partials/global/title-box.php:96
+msgid "Search"
+msgstr ""
+
+#: sportspress/event-list.php:240 sportspress/event-list.php:715
+#: sportspress/player-details-right.php:64
+msgid "Season"
+msgstr ""
+
+#: vc_templates/stm_league_table.php:39
+msgid "See all results"
+msgstr ""
+
+#: vc_templates/stm_media_tabs.php:84
+msgid "See More Media"
+msgstr ""
+
+#: vc_templates/stm_league_table_with_ajax.php:23
+#: vc_templates/stm_results_table_ajax.php:20
+msgid "Select League"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: admin/screens/system_status.php:76 admin/screens/system_status.php:80
+msgid "Server Environment"
+msgstr ""
+
+#: admin/screens/system_status.php:85
+msgid "Server Info:"
+msgstr ""
+
+#: includes/customizer/registration.php:570
+msgid "Set footer style"
+msgstr ""
+
+#: partials/global/post-content.php:106
+msgid "Share"
+msgstr ""
+
+#: partials/global/post-content.php:110
+msgid "share"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:31
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46 woocommerce/cart/cart-totals.php:55
+#: woocommerce/cart/cart-totals.php:135 woocommerce/cart/cart-totals.php:136
+#: woocommerce/cart/cart-totals.php:158
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Shipping Adress"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:157
+msgid "Shipping:"
+msgstr ""
+
+#: includes/setup.php:200 includes/customizer/registration.php:1002
+msgid "Shop"
+msgstr ""
+
+#: includes/customizer/registration.php:1022
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: includes/customizer/registration.php:1031
+msgid "Shop slider"
+msgstr ""
+
+#: includes/customizer/registration.php:1034
+#: includes/customizer/registration.php:1049
+msgid "Show"
+msgstr ""
+
+#: partials/global/media-archive.php:140 partials/global/media-archive.php:165
+#: partials/global/media-archive.php:190 partials/global/media-archive.php:215
+msgid "Show more"
+msgstr ""
+
+#: includes/customizer/registration.php:863
+msgid "Show page breadcrumbs"
+msgstr ""
+
+#: includes/customizer/registration.php:858
+msgid "Show page title"
+msgstr ""
+
+#: includes/customizer/registration.php:676
+msgid "Show Socials after footer image"
+msgstr ""
+
+#: includes/customizer/registration.php:991
+msgid "Show statistic"
+msgstr ""
+
+#: includes/setup.php:165
+msgid "Sidebar menu"
+msgstr ""
+
+#: includes/customizer/registration.php:751
+#: includes/customizer/registration.php:773
+#: includes/customizer/registration.php:901
+msgid "Sidebar position"
+msgstr ""
+
+#: partials/header/top-bar-partials/top-bar-profile-soccer-two.php:10
+#: partials/header/top-bar-partials/top-bar-profile-magazine-two.php:10
+#: partials/header/top-bar-partials/top-bar-profile.php:10
+msgid "Sign Up"
+msgstr ""
+
+#: includes/customizer/registration.php:967
+msgid "Single player"
+msgstr ""
+
+#: includes/customizer/registration.php:1046
+msgid "Single product sidebar"
+msgstr ""
+
+#: includes/customizer/registration.php:186
+msgid "Site background color"
+msgstr ""
+
+#: includes/customizer/registration.php:86
+msgid "Site Settings"
+msgstr ""
+
+#: includes/customizer/registration.php:237
+msgid "Site smooth scroll"
+msgstr ""
+
+#: admin/screens/system_status.php:26
+msgid "Site URL:"
+msgstr ""
+
+#: includes/customizer/registration.php:161
+#: includes/class/Customizer_Additional.php:70
+msgid "Sky blue"
+msgstr ""
+
+#: includes/customizer/registration.php:28
+msgid "Skype"
+msgstr ""
+
+#: includes/widgets/contacts.php:164
+msgid "Skype:"
+msgstr ""
+
+#: includes/customizer/registration.php:1040
+msgid "Slect shop slider"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:17
+msgid "Soccer"
+msgstr ""
+
+#: includes/customizer/registration.php:698
+#: includes/customizer/registration.php:1058
+msgid "Socials"
+msgstr ""
+
+#: includes/customizer/registration.php:681
+msgid "Socials background color"
+msgstr ""
+
+#: includes/customizer/registration.php:1062
+msgid "Socials Links"
+msgstr ""
+
+#: includes/customizer/registration.php:693
+msgid "Socials text"
+msgstr ""
+
+#: includes/customizer/registration.php:25
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/setup.php:47
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the theme
+msgid "Splash"
+msgstr ""
+
+#: includes/custom.php:936
+msgid "Splash Default Avatar"
+msgstr ""
+
+#. Description of the theme
+msgid "Splash theme"
+msgstr ""
+
+#: includes/setup.php:189 includes/customizer/registration.php:98
+#: includes/customizer/registration.php:935
+msgid "SportsPress"
+msgstr ""
+
+#: includes/customizer/registration.php:944
+#: includes/customizer/registration.php:954
+msgid "Sportspress"
+msgstr ""
+
+#. Name of the template
+msgid "SportsPress No Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "SportsPress Sidebar Left"
+msgstr ""
+
+#. Name of the template
+msgid "SportsPress Sidebar Right"
+msgstr ""
+
+#: includes/setup.php:191
+msgid "SportsPress Widgets Area"
+msgstr ""
+
+#: includes/woocommerce.php:65 includes/woocommerce.php:72
+msgid "State/Country"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:27
+msgid "Static"
+msgstr ""
+
+#: includes/customizer/registration.php:423
+msgid "Static Front Page"
+msgstr ""
+
+#: includes/customizer/registration.php:987
+msgid "Statistics will be shown for this league"
+msgstr ""
+
+#: includes/customizer/registration.php:980
+msgid "Statistics will be shown for this season"
+msgstr ""
+
+#: partials/global/frontend_customizer.php:29
+msgid "Sticky"
+msgstr ""
+
+#: includes/customizer/registration.php:461
+msgid "Sticky Logo (works with vertical menu)"
+msgstr ""
+
+#: partials/loop/content-grid-vc-baseball.php:13
+#: partials/loop/content-grid-vc-baseball.php:58
+#: partials/loop/content-news-grid.php:9 partials/loop/content-news-grid.php:14
+#: partials/loop/content-list-baseball.php:14
+#: partials/loop/content-grid-baseball.php:27
+#: partials/loop/content-grid-baseball.php:72 partials/loop/content-list.php:16
+#: partials/loop/content-grid.php:24 partials/loop/content-grid.php:29
+msgid "Sticky Post"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/recent_posts.php:11
+msgid "STM Recent posts"
+msgstr ""
+
+#: includes/widgets/stm-event-list.php:6
+msgid "STM SP Event List"
+msgstr ""
+
+#: includes/customizer/registration.php:181
+#: includes/customizer/registration.php:192
+#: includes/class/Customizer_Additional.php:16
+#: includes/class/Customizer_Additional.php:60
+msgid "Style"
+msgstr ""
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87 admin/screens/startup.php:58
+msgid "Submit"
+msgstr ""
+
+#: admin/screens/support.php:38
+msgid "Submit a ticket"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:37 woocommerce/cart/cart-totals.php:38
+#: woocommerce/cart/cart-totals.php:149 woocommerce/cart/cart-totals.php:150
+msgid "Subtotal"
+msgstr ""
+
+#: admin/screens/system_status.php:150
+msgid "SUHOSIN Installed:"
+msgstr ""
+
+#: admin/screens/system_status.php:151
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+
+#: admin/screens/system_status.php:215
+msgid "Suhosin Post Max Value Length:"
+msgstr ""
+
+#: admin/screens/system_status.php:157
+msgid "Suhosin Post Max Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:186
+msgid "Suhosin Request Max Vars:"
+msgstr ""
+
+#: admin/includes/admin_screens.php:36 admin/includes/admin_screens.php:37
+#: admin/includes/admin_screens.php:157
+msgid "Support"
+msgstr ""
+
+#: vc_templates/stm_carousel_with_data.php:74
+msgid "Surface"
+msgstr ""
+
+#: admin/includes/admin_screens.php:163
+msgid "System Status"
+msgstr ""
+
+#: admin/includes/admin_screens.php:46 admin/includes/admin_screens.php:47
+msgid "System status"
+msgstr ""
+
+#: sportspress/event-list.php:210 sportspress/event-list.php:685
+msgid "Teams"
+msgstr ""
+
+#: includes/customizer/registration.php:129
+msgid "Text Logo Color"
+msgstr ""
+
+#: includes/customizer/registration.php:120
+msgid "Text Logo Font Size"
+msgstr ""
+
+#: admin/screens/startup.php:40
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+
+#: admin/screens/system_status.php:104
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: includes/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: admin/screens/system_status.php:70
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: includes/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: admin/screens/system_status.php:99
+msgid "The largest file size that can be contained in one post."
+msgstr ""
+
+#: admin/screens/system_status.php:248
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/screens/system_status.php:42
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/screens/system_status.php:122 admin/screens/system_status.php:158
+#: admin/screens/system_status.php:187
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: admin/screens/system_status.php:27
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/screens/system_status.php:22
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/screens/system_status.php:237
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/screens/system_status.php:91
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/screens/system_status.php:32
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: includes/customizer/registration.php:943
+#: includes/customizer/registration.php:953
+msgid "Theme"
+msgstr ""
+
+#: coming-soon.php:27 coming-soon.php:29
+#: includes/customizer/registration.php:673 partials/footer/footer-bottom.php:5
+#: partials/footer/footer-bottom.php:9 partials/footer/footer-bottom.php:11
+#: partials/footer/footer-bottom.php:13 partials/header/header-four.php:128
+msgid "Theme by Stylemix Themes."
+msgstr ""
+
+#: admin/includes/admin_screens.php:165 admin/includes/admin_screens.php:172
+msgid "Theme Options"
+msgstr ""
+
+#: includes/widgets/recent_posts.php:12
+msgid "Theme recent posts widget"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: includes/customizer/registration.php:994
+msgid "This Statistic will be shown on single player page"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:45
+#: includes/class/Customizer_Additional.php:98
+#: includes/class/Customizer_Additional.php:131
+msgid "Ticker title"
+msgstr ""
+
+#: admin/screens/support.php:32
+msgid "Ticket System"
+msgstr ""
+
+#: sportspress/event-list.php:203 sportspress/event-list.php:218
+#: sportspress/event-list.php:224 sportspress/event-list.php:679
+#: sportspress/event-list.php:693 sportspress/event-list.php:699
+msgid "Time"
+msgstr ""
+
+#: sportspress/event-list.php:195 sportspress/event-list.php:232
+#: sportspress/event-list.php:669 sportspress/event-list.php:707
+msgid "Time/Results"
+msgstr ""
+
+#: includes/widgets/follow_us.php:99 includes/widgets/contacts.php:144
+#: includes/widgets/recent_posts.php:99
+msgid "Title:"
+msgstr ""
+
+#: partials/global/post-content-magazine.php:166
+msgid "to read"
+msgstr ""
+
+#: includes/customizer/registration.php:488
+msgid "Top bar"
+msgstr ""
+
+#: includes/customizer/registration.php:498
+msgid "Top bar Background Color"
+msgstr ""
+
+#: includes/customizer/registration.php:518
+msgid "Top bar enable Cart woocommerce"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:33
+#: includes/class/Customizer_Additional.php:86
+#: includes/class/Customizer_Additional.php:119
+msgid "Top bar enable news ticker"
+msgstr ""
+
+#: includes/customizer/registration.php:524
+#: includes/class/Customizer_Additional.php:148
+#: includes/class/Customizer_Additional.php:164
+#: includes/class/Customizer_Additional.php:190
+msgid "Top bar enable profile"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:136
+#: includes/class/Customizer_Additional.php:158
+#: includes/class/Customizer_Additional.php:184
+msgid "Top bar enable search"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:27
+#: includes/class/Customizer_Additional.php:80
+#: includes/class/Customizer_Additional.php:113
+msgid "Top bar enable socials"
+msgstr ""
+
+#: includes/class/Customizer_Additional.php:50
+#: includes/class/Customizer_Additional.php:103
+#: includes/class/Customizer_Additional.php:142
+msgid "Top bar enable tickets"
+msgstr ""
+
+#: includes/customizer/registration.php:512
+msgid "Top bar enable WPML switcher"
+msgstr ""
+
+#: includes/customizer/registration.php:492
+msgid "Top bar Enabled"
+msgstr ""
+
+#: includes/customizer/registration.php:552
+msgid "Top Bar Socials"
+msgstr ""
+
+#: includes/customizer/registration.php:556
+msgid "Top bar Socials"
+msgstr ""
+
+#: includes/customizer/registration.php:505
+msgid "Top bar Text Color"
+msgstr ""
+
+#: includes/customizer/registration.php:533
+msgid "Top Bar Tickets"
+msgstr ""
+
+#: includes/customizer/registration.php:537
+msgid "Top bar tickets icon"
+msgstr ""
+
+#: includes/customizer/registration.php:541
+#: includes/customizer/registration.php:545
+msgid "Top bar tickets text"
+msgstr ""
+
+#: vc_templates/stm_af_latest_result.php:263
+#: vc_templates/stm_af_latest_result.php:368
+msgid "Top Passer"
+msgstr ""
+
+#: vc_templates/stm_af_latest_result.php:285
+#: vc_templates/stm_af_latest_result.php:390
+msgid "Top Receiver"
+msgstr ""
+
+#: vc_templates/stm_af_latest_result.php:274
+#: vc_templates/stm_af_latest_result.php:379
+msgid "Top Rusher"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:124
+#: woocommerce/cart/cart-totals.php:99 woocommerce/cart/cart-totals.php:100
+#: woocommerce/cart/cart-totals.php:201 woocommerce/cart/cart-totals.php:202
+msgid "Total"
+msgstr ""
+
+#: sportspress/event-logos.php:335 sportspress/event-logos.php:392
+#: sportspress/event-results-as-header.php:88
+#: sportspress/event-results-as-header.php:146
+#: vc_templates/stm_af_latest_result.php:467
+msgid "touchdown(s)"
+msgstr ""
+
+#: includes/woocommerce.php:64 includes/woocommerce.php:71
+msgid "Town/City"
+msgstr ""
+
+#: includes/customizer/registration.php:31
+msgid "Tumblr"
+msgstr ""
+
+#: includes/customizer/registration.php:162
+#: includes/class/Customizer_Additional.php:71
+msgid "Turquoise"
+msgstr ""
+
+#: includes/customizer/registration.php:11
+msgid "Twitter"
+msgstr ""
+
+#: includes/customizer/registration.php:306
+msgid "Typography"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr ""
+
+#: includes/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: vc_templates/stm_next_match_list.php:40
+msgid "upcoming events"
+msgstr ""
+
+#: woocommerce/cart/cart.php:175
+msgid "Update Cart"
+msgstr ""
+
+#: includes/customizer/registration.php:810
+msgid "USD"
+msgstr ""
+
+#: includes/customizer/registration.php:841
+msgid "User E-mail subject"
+msgstr ""
+
+#: includes/customizer/registration.php:846
+msgid "User E-mail text"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: sportspress/event-list.php:243 sportspress/event-list.php:718
+#: sportspress/event-venue.php:38
+msgid "Venue"
+msgstr ""
+
+#: woocommerce/single-product/review.php:57
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Very Poor"
+msgstr ""
+
+#: vc_templates/stm_media_tabs.php:112 partials/global/media-archive.php:110
+#: partials/global/sportspress/player-media.php:72
+msgid "Video"
+msgstr ""
+
+#: admin/screens/support.php:69
+msgid "Video Tutorials"
+msgstr ""
+
+#: vc_templates/stm_league_table.php:39
+msgid "View all"
+msgstr ""
+
+#: vc_templates/stm_league_table.php:273
+msgid "view all"
+msgstr ""
+
+#: sportspress/event-blocks.php:580 sportspress/event-list.php:554
+#: sportspress/event-list.php:645 sportspress/event-list.php:985
+msgid "View all events"
+msgstr ""
+
+#: vc_templates/stm_carousel_with_data.php:51
+msgid "View on map"
+msgstr ""
+
+#: vc_templates/stm_player_statistic.php:180
+#: partials/vc_templates_views/stm-af-player-statistic-default.php:133
+#: partials/vc_templates_views/stm-af-player-statistic-default.php:170
+#: partials/vc_templates_views/stm-af-player-statistic-baseball.php:170
+#: partials/vc_templates_views/stm-af-player-statistic-baseball.php:284
+msgid "View profile"
+msgstr ""
+
+#: includes/customizer/registration.php:725
+#: includes/customizer/registration.php:875
+msgid "View type"
+msgstr ""
+
+#: includes/customizer/registration.php:163
+#: includes/class/Customizer_Additional.php:72
+msgid "Violet Red"
+msgstr ""
+
+#: admin/screens/support.php:92
+msgid "Visit Our Forum"
+msgstr ""
+
+#: admin/screens/system_status.php:285
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: vc_templates/stm_products_carousel.php:88
+msgid "Visit shop"
+msgstr ""
+
+#: includes/customizer/registration.php:12
+msgid "VK"
+msgstr ""
+
+#: sportspress/event-blocks.php:263 sportspress/event-blocks.php:308
+#: sportspress/event-logos.php:151 vc_templates/stm_next_match_list.php:169
+#: vc_templates/stm_next_match.php:257 vc_templates/stm_next_match.php:321
+#: vc_templates/stm_next_match.php:324
+#: vc_templates/stm_af_latest_result.php:241
+#: vc_templates/stm_af_latest_result.php:447
+#: vc_templates/stm_af_latest_result.php:630
+msgid "VS"
+msgstr ""
+
+#: sportspress/event-logos.php:128 vc_templates/stm_next_match_list.php:112
+#: vc_templates/stm_next_match.php:121
+#: vc_templates/stm_next_match_carousel.php:81
+#: vc_templates/stm_next_match_carousel.php:136
+msgid "vs"
+msgstr ""
+
+#: admin/includes/admin_screens.php:148
+msgid "Watch Our Quick Guided Tour!"
+msgstr ""
+
+#: partials/header/header-four.php:94
+#: partials/header/top-bar-partials/top-bar-cart.php:16
+#: partials/header/top-bar-partials/top-bar-cart.php:26
+msgid "Watch shop items"
+msgstr ""
+
+#: admin/screens/support.php:75
+msgid "Watch Videos"
+msgstr ""
+
+#: admin/screens/support.php:35
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+
+#: partials/global/post-content-magazine.php:104
+msgid "We recommend"
+msgstr ""
+
+#: admin/screens/support.php:72
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+
+#: includes/custom.php:426
+msgid "Website"
+msgstr ""
+
+#: admin/includes/admin_screens.php:146
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: includes/customizer/registration.php:32
+msgid "Whatsapp"
+msgstr ""
+
+#: admin/screens/system_status.php:37
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: partials/global/frontend_customizer.php:40
+#: includes/megamenu/admin/includes/config.php:14
+msgid "Wide"
+msgstr ""
+
+#: sportspress/event-blocks.php:246 sportspress/event-blocks.php:316
+#: sportspress/event-blocks.php:430 sportspress/event-blocks.php:459
+#: sportspress/stm-event-block.php:148 sportspress/stm-event-block.php:185
+#: sportspress/event-logos.php:322 sportspress/event-logos.php:379
+#: sportspress/event-results-as-header.php:75
+#: sportspress/event-results-as-header.php:133
+#: vc_templates/stm_af_latest_result.php:205
+#: vc_templates/stm_af_latest_result.php:226
+#: partials/vc_templates_views/stm-latest-results-default.php:101
+#: partials/vc_templates_views/stm-latest-results-default.php:123
+msgid "win"
+msgstr ""
+
+#: vc_templates/stm_players_tabs.php:70
+msgid "Wins"
+msgstr ""
+
+#: includes/customizer/registration.php:707
+msgid "Without sidebar"
+msgstr ""
+
+#: includes/setup.php:202
+msgid "Woocommerce pages sidebar"
+msgstr ""
+
+#: admin/screens/system_status.php:11 admin/screens/system_status.php:16
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/screens/system_status.php:58
+msgid "WP Debug Mode:"
+msgstr ""
+
+#: admin/screens/system_status.php:41
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/screens/system_status.php:36
+msgid "WP Multisite:"
+msgstr ""
+
+#: admin/screens/system_status.php:31
+msgid "WP Version:"
+msgstr ""
+
+#: includes/customizer/registration.php:20
+msgid "Yahoo"
+msgstr ""
+
+#: partials/vc_templates_views/stm-af-player-statistic-baseball.php:240
+msgid "Year"
+msgstr ""
+
+#: partials/global/modals/donation.php:9
+msgid "You are donating to:"
+msgstr ""
+
+#: includes/customizer/registration.php:947
+#: includes/customizer/registration.php:957
+msgid ""
+"You can choose sportspress view, if you want to enable default plugin "
+"settings"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:30
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: admin/screens/startup.php:70
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+
+#: woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: includes/custom.php:380
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/screens/system_status.php:51
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Your Review"
+msgstr ""
+
+#: includes/customizer/registration.php:29
+msgid "Youtube"
+msgstr ""
+
+#: includes/customizer/registration.php:30
+msgid "Youtube Play"
+msgstr ""
+
+#: admin/screens/system_status.php:232
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: admin/screens/system_status.php:231
+msgid "ZipArchive:"
+msgstr ""

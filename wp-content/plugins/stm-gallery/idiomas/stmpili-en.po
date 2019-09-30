@@ -1,0 +1,455 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-10-31 09:11+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Versiones antiguas y auxiliares/stmpili.php:200 auxiliares/stmpili.php:201
+#: auxiliares/stmpili_v0.1.php:69 auxiliares/stmpili_v0.1.php:70
+#: auxiliares/stmpili_v0.2.php:69 auxiliares/stmpili_v0.2.php:70
+#: auxiliares/stmpili_v0.3.php:69 auxiliares/stmpili_v0.3.php:70
+#: auxiliares/stmpili_v0.4.php:70 auxiliares/stmpili_v0.4.php:71
+#: auxiliares/stmpili_v0.5.php:70 auxiliares/stmpili_v0.5.php:71
+#: auxiliares/stmpili_v0.6.php:70 auxiliares/stmpili_v0.6.php:71
+#: auxiliares/stmpili_v0.7.php:70 auxiliares/stmpili_v0.7.php:71
+#: auxiliares/stmpili_v10.php:69 auxiliares/stmpili_v10.php:70
+#: stmpili_v0.8.php:70 stmpili_v0.8.php:71
+msgid "Composición"
+msgstr "Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:202 auxiliares/stmpili.php:220
+#: auxiliares/stmpili_v0.1.php:71 auxiliares/stmpili_v0.1.php:89
+#: auxiliares/stmpili_v0.2.php:71 auxiliares/stmpili_v0.2.php:89
+#: auxiliares/stmpili_v0.3.php:71 auxiliares/stmpili_v0.3.php:89
+#: auxiliares/stmpili_v0.4.php:72 auxiliares/stmpili_v0.4.php:90
+#: auxiliares/stmpili_v0.5.php:72 auxiliares/stmpili_v0.5.php:90
+#: auxiliares/stmpili_v0.6.php:72 auxiliares/stmpili_v0.6.php:90
+#: auxiliares/stmpili_v0.7.php:72 auxiliares/stmpili_v0.7.php:90
+#: auxiliares/stmpili_v10.php:71 auxiliares/stmpili_v10.php:89
+#: stmpili_v0.8.php:72 stmpili_v0.8.php:90
+msgid "Composiciones"
+msgstr "Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:203
+msgid "Todas las Composiciones"
+msgstr "All the Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:204
+msgid "Editar Composición"
+msgstr "Edit Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:205
+msgid "Ver Composición"
+msgstr "View Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:206
+msgid "Actualizar Composición"
+msgstr "Update Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:207
+msgid "Añadir nueva Composición"
+msgstr "Add New Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:208
+msgid "Nombre nueva Composición"
+msgstr "Name New Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:209
+msgid "Nombre Composición superior"
+msgstr "Name Higher Composition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:210
+msgid "Nombre Composición superior:"
+msgstr "Name Higher Composition:"
+
+#: Versiones antiguas y auxiliares/stmpili.php:211
+msgid "Buscar Composiciones"
+msgstr "Search Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:212
+#: auxiliares/stmpili_v0.1.php:81 auxiliares/stmpili_v0.2.php:81
+#: auxiliares/stmpili_v0.3.php:81 auxiliares/stmpili_v0.4.php:82
+#: auxiliares/stmpili_v0.5.php:82 auxiliares/stmpili_v0.6.php:82
+#: auxiliares/stmpili_v0.7.php:82 auxiliares/stmpili_v10.php:81
+#: stmpili_v0.8.php:82
+msgid "Composiciones más populares"
+msgstr "Most Frequent Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:213
+msgid "Separar Composiciones con comas"
+msgstr "Separate Compositions with comma"
+
+#: Versiones antiguas y auxiliares/stmpili.php:214
+msgid "Añadir o eliminar Composiciones"
+msgstr "Append or Remove Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:215
+msgid "Eligir entre las Composiciones más utilizadas"
+msgstr "Select between most frequent Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:216
+#: auxiliares/stmpili_v0.1.php:85 auxiliares/stmpili_v0.2.php:85
+#: auxiliares/stmpili_v0.3.php:85 auxiliares/stmpili_v0.4.php:86
+#: auxiliares/stmpili_v0.5.php:86 auxiliares/stmpili_v0.6.php:86
+#: auxiliares/stmpili_v0.7.php:86 auxiliares/stmpili_v10.php:85
+#: stmpili_v0.8.php:86
+msgid "Composición no encontrada"
+msgstr "Composition not found"
+
+#: Versiones antiguas y auxiliares/stmpili.php:404
+#: auxiliares/stmpili_v0.1.php:185 auxiliares/stmpili_v0.2.php:173
+#: auxiliares/stmpili_v0.3.php:192 auxiliares/stmpili_v0.4.php:193
+#: auxiliares/stmpili_v0.5.php:193 auxiliares/stmpili_v0.6.php:193
+#: auxiliares/stmpili_v0.7.php:193 auxiliares/stmpili_v10.php:172
+#: stmpili_v0.8.php:194
+msgid "Color margen imágenes"
+msgstr "Image Margin Color"
+
+#: Versiones antiguas y auxiliares/stmpili.php:415
+#: auxiliares/stmpili_v0.1.php:193 auxiliares/stmpili_v0.2.php:184
+#: auxiliares/stmpili_v0.3.php:200 auxiliares/stmpili_v0.4.php:201
+#: auxiliares/stmpili_v0.5.php:201 auxiliares/stmpili_v0.6.php:201
+#: auxiliares/stmpili_v0.7.php:201 auxiliares/stmpili_v10.php:183
+#: stmpili_v0.8.php:202
+msgid "Grosor margen imágenes"
+msgstr "Image Margin Thickness"
+
+#: Versiones antiguas y auxiliares/stmpili.php:426
+#: auxiliares/stmpili_v0.1.php:201 auxiliares/stmpili_v0.2.php:195
+#: auxiliares/stmpili_v0.3.php:208 auxiliares/stmpili_v0.4.php:209
+#: auxiliares/stmpili_v0.5.php:209 auxiliares/stmpili_v0.6.php:209
+#: auxiliares/stmpili_v0.7.php:209 auxiliares/stmpili_v10.php:194
+#: stmpili_v0.8.php:210
+msgid "Redondeo margen imágenes"
+msgstr "Image Margin Round"
+
+#: Versiones antiguas y auxiliares/stmpili.php:437
+#: auxiliares/stmpili_v0.1.php:212 auxiliares/stmpili_v0.2.php:206
+#: auxiliares/stmpili_v0.3.php:219 auxiliares/stmpili_v0.4.php:220
+#: auxiliares/stmpili_v0.5.php:220 auxiliares/stmpili_v0.6.php:220
+#: auxiliares/stmpili_v0.7.php:220 auxiliares/stmpili_v10.php:205
+#: stmpili_v0.8.php:221
+msgid "Color borde imágenes"
+msgstr "Image Border Color"
+
+#: Versiones antiguas y auxiliares/stmpili.php:448
+#: auxiliares/stmpili_v0.1.php:220 auxiliares/stmpili_v0.2.php:217
+#: auxiliares/stmpili_v0.3.php:227 auxiliares/stmpili_v0.4.php:228
+#: auxiliares/stmpili_v0.5.php:228 auxiliares/stmpili_v0.6.php:228
+#: auxiliares/stmpili_v0.7.php:228 auxiliares/stmpili_v10.php:216
+#: stmpili_v0.8.php:229
+msgid "Grosor borde imágenes"
+msgstr "Image Border Thickness"
+
+#: Versiones antiguas y auxiliares/stmpili.php:459
+#: auxiliares/stmpili_v0.1.php:228 auxiliares/stmpili_v0.2.php:228
+#: auxiliares/stmpili_v0.3.php:235 auxiliares/stmpili_v0.4.php:236
+#: auxiliares/stmpili_v0.5.php:236 auxiliares/stmpili_v0.6.php:236
+#: auxiliares/stmpili_v0.7.php:236 auxiliares/stmpili_v10.php:227
+#: stmpili_v0.8.php:237
+msgid "Redondeo borde imágenes"
+msgstr "Image Border Round"
+
+#: Versiones antiguas y auxiliares/stmpili.php:470
+#: auxiliares/stmpili_v0.1.php:239 auxiliares/stmpili_v0.2.php:239
+#: auxiliares/stmpili_v0.3.php:246 auxiliares/stmpili_v0.4.php:247
+#: auxiliares/stmpili_v0.5.php:247 auxiliares/stmpili_v0.6.php:247
+#: auxiliares/stmpili_v0.7.php:247 auxiliares/stmpili_v10.php:238
+#: stmpili_v0.8.php:248
+msgid "Color sombra imágenes"
+msgstr "Image Shadow Color"
+
+#: Versiones antiguas y auxiliares/stmpili.php:481
+#: auxiliares/stmpili_v0.1.php:247 auxiliares/stmpili_v0.2.php:250
+#: auxiliares/stmpili_v0.3.php:254 auxiliares/stmpili_v0.4.php:255
+#: auxiliares/stmpili_v0.5.php:255 auxiliares/stmpili_v0.6.php:255
+#: auxiliares/stmpili_v0.7.php:255 auxiliares/stmpili_v10.php:249
+#: stmpili_v0.8.php:256
+msgid "Grosor sombra imágenes"
+msgstr "Image Shadow Thickness"
+
+#: Versiones antiguas y auxiliares/stmpili.php:492
+#: auxiliares/stmpili_v0.1.php:258 auxiliares/stmpili_v0.2.php:261
+#: auxiliares/stmpili_v0.3.php:265 auxiliares/stmpili_v0.4.php:266
+#: auxiliares/stmpili_v0.5.php:266 auxiliares/stmpili_v0.6.php:266
+#: auxiliares/stmpili_v0.7.php:266 auxiliares/stmpili_v10.php:260
+#: stmpili_v0.8.php:267
+msgid "Aumento imágenes"
+msgstr "Images Increase"
+
+#: Versiones antiguas y auxiliares/stmpili.php:513
+#: auxiliares/stmpili_v0.1.php:284 auxiliares/stmpili_v0.2.php:282
+#: auxiliares/stmpili_v0.3.php:291 auxiliares/stmpili_v0.4.php:292
+#: auxiliares/stmpili_v0.5.php:292 auxiliares/stmpili_v0.6.php:292
+#: auxiliares/stmpili_v0.7.php:292 auxiliares/stmpili_v10.php:281
+#: stmpili_v0.8.php:293
+msgid "Girado imágenes"
+msgstr "Images Turned"
+
+#: Versiones antiguas y auxiliares/stmpili.php:534
+#: auxiliares/stmpili_v0.1.php:305 auxiliares/stmpili_v0.2.php:303
+#: auxiliares/stmpili_v0.3.php:312 auxiliares/stmpili_v0.4.php:313
+#: auxiliares/stmpili_v0.5.php:313 auxiliares/stmpili_v0.6.php:313
+#: auxiliares/stmpili_v0.7.php:313 auxiliares/stmpili_v10.php:302
+#: stmpili_v0.8.php:314
+msgid "Color fondo composición"
+msgstr "Composition Background Color"
+
+#: Versiones antiguas y auxiliares/stmpili.php:545
+#: auxiliares/stmpili_v0.1.php:313 auxiliares/stmpili_v0.2.php:314
+#: auxiliares/stmpili_v0.3.php:320 auxiliares/stmpili_v0.4.php:321
+#: auxiliares/stmpili_v0.5.php:321 auxiliares/stmpili_v0.6.php:321
+#: auxiliares/stmpili_v0.7.php:321 auxiliares/stmpili_v10.php:313
+#: stmpili_v0.8.php:322
+msgid "Fondo transparente composición"
+msgstr "Composition Transparent Background"
+
+#: Versiones antiguas y auxiliares/stmpili.php:566
+#: auxiliares/stmpili_v0.1.php:334 auxiliares/stmpili_v0.2.php:335
+#: auxiliares/stmpili_v0.3.php:341 auxiliares/stmpili_v0.4.php:342
+#: auxiliares/stmpili_v0.5.php:342 auxiliares/stmpili_v0.6.php:342
+#: auxiliares/stmpili_v0.7.php:342 auxiliares/stmpili_v10.php:334
+#: stmpili_v0.8.php:343
+msgid "Imagen fondo composición"
+msgstr "Composition Background Image"
+
+#: Versiones antiguas y auxiliares/stmpili.php:572 auxiliares/stmpili.php:735
+#: auxiliares/stmpili_v0.1.php:340 auxiliares/stmpili_v0.1.php:497
+#: auxiliares/stmpili_v0.2.php:341 auxiliares/stmpili_v0.2.php:504
+#: auxiliares/stmpili_v0.3.php:347 auxiliares/stmpili_v0.3.php:504
+#: auxiliares/stmpili_v0.4.php:348 auxiliares/stmpili_v0.4.php:505
+#: auxiliares/stmpili_v0.5.php:348 auxiliares/stmpili_v0.5.php:505
+#: auxiliares/stmpili_v0.6.php:348 auxiliares/stmpili_v0.6.php:505
+#: auxiliares/stmpili_v0.7.php:348 auxiliares/stmpili_v0.7.php:505
+#: auxiliares/stmpili_v10.php:340 auxiliares/stmpili_v10.php:503
+#: stmpili_v0.8.php:349 stmpili_v0.8.php:506
+msgid "Archivo"
+msgstr "File"
+
+#: Versiones antiguas y auxiliares/stmpili.php:575 auxiliares/stmpili.php:738
+#: auxiliares/stmpili_v0.1.php:343 auxiliares/stmpili_v0.1.php:500
+#: auxiliares/stmpili_v0.2.php:344 auxiliares/stmpili_v0.2.php:507
+#: auxiliares/stmpili_v0.3.php:350 auxiliares/stmpili_v0.3.php:507
+#: auxiliares/stmpili_v0.4.php:351 auxiliares/stmpili_v0.4.php:508
+#: auxiliares/stmpili_v0.5.php:351 auxiliares/stmpili_v0.5.php:508
+#: auxiliares/stmpili_v0.6.php:351 auxiliares/stmpili_v0.6.php:508
+#: auxiliares/stmpili_v0.7.php:351 auxiliares/stmpili_v0.7.php:508
+#: auxiliares/stmpili_v10.php:343 auxiliares/stmpili_v10.php:506
+#: stmpili_v0.8.php:352 stmpili_v0.8.php:509
+msgid "Borrar"
+msgstr "Remove"
+
+#: Versiones antiguas y auxiliares/stmpili.php:618
+#: auxiliares/stmpili_v0.1.php:386 auxiliares/stmpili_v0.2.php:387
+#: auxiliares/stmpili_v0.3.php:393 auxiliares/stmpili_v0.4.php:394
+#: auxiliares/stmpili_v0.5.php:394 auxiliares/stmpili_v0.6.php:394
+#: auxiliares/stmpili_v0.7.php:394 auxiliares/stmpili_v10.php:386
+#: stmpili_v0.8.php:395
+msgid "Tipo cambio composición"
+msgstr "Kind of Change between Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili.php:626 auxiliares/stmpili.php:633
+#: auxiliares/stmpili_v0.1.php:394 auxiliares/stmpili_v0.1.php:401
+#: auxiliares/stmpili_v0.2.php:395 auxiliares/stmpili_v0.2.php:402
+#: auxiliares/stmpili_v0.3.php:401 auxiliares/stmpili_v0.3.php:408
+#: auxiliares/stmpili_v0.4.php:402 auxiliares/stmpili_v0.4.php:409
+#: auxiliares/stmpili_v0.5.php:402 auxiliares/stmpili_v0.5.php:409
+#: auxiliares/stmpili_v0.6.php:402 auxiliares/stmpili_v0.6.php:409
+#: auxiliares/stmpili_v0.7.php:402 auxiliares/stmpili_v0.7.php:409
+#: auxiliares/stmpili_v10.php:394 auxiliares/stmpili_v10.php:401
+#: stmpili_v0.8.php:403 stmpili_v0.8.php:410
+msgid "Cambio"
+msgstr "Change"
+
+#: Versiones antiguas y auxiliares/stmpili.php:628 auxiliares/stmpili.php:635
+#: auxiliares/stmpili_v0.1.php:396 auxiliares/stmpili_v0.1.php:403
+#: auxiliares/stmpili_v0.2.php:397 auxiliares/stmpili_v0.2.php:404
+#: auxiliares/stmpili_v0.3.php:403 auxiliares/stmpili_v0.3.php:410
+#: auxiliares/stmpili_v0.4.php:404 auxiliares/stmpili_v0.4.php:411
+#: auxiliares/stmpili_v0.5.php:404 auxiliares/stmpili_v0.5.php:411
+#: auxiliares/stmpili_v0.6.php:404 auxiliares/stmpili_v0.6.php:411
+#: auxiliares/stmpili_v0.7.php:404 auxiliares/stmpili_v0.7.php:411
+#: auxiliares/stmpili_v10.php:396 auxiliares/stmpili_v10.php:403
+#: stmpili_v0.8.php:405 stmpili_v0.8.php:412
+msgid "Transición"
+msgstr "Transition"
+
+#: Versiones antiguas y auxiliares/stmpili.php:645
+#: auxiliares/stmpili_v0.1.php:413 auxiliares/stmpili_v0.2.php:414
+#: auxiliares/stmpili_v0.3.php:420 auxiliares/stmpili_v0.4.php:421
+#: auxiliares/stmpili_v0.5.php:421 auxiliares/stmpili_v0.6.php:421
+#: auxiliares/stmpili_v0.7.php:421 auxiliares/stmpili_v10.php:413
+#: stmpili_v0.8.php:422
+msgid "Mostrar barra lateral en taxonomía"
+msgstr "Show Sidebar in Taxonomy"
+
+#: Versiones antiguas y auxiliares/stmpili.php:666
+#: auxiliares/stmpili_v0.1.php:431 auxiliares/stmpili_v0.2.php:435
+#: auxiliares/stmpili_v0.3.php:438 auxiliares/stmpili_v0.4.php:439
+#: auxiliares/stmpili_v0.5.php:439 auxiliares/stmpili_v0.6.php:439
+#: auxiliares/stmpili_v0.7.php:439 auxiliares/stmpili_v10.php:434
+#: stmpili_v0.8.php:440
+msgid "Mostrar pie de página en taxonomía"
+msgstr "Show Footer in Taxonomy"
+
+#: Versiones antiguas y auxiliares/stmpili.php:687
+#: auxiliares/stmpili_v0.1.php:452 auxiliares/stmpili_v0.2.php:456
+#: auxiliares/stmpili_v0.3.php:459 auxiliares/stmpili_v0.4.php:460
+#: auxiliares/stmpili_v0.5.php:460 auxiliares/stmpili_v0.6.php:460
+#: auxiliares/stmpili_v0.7.php:460 auxiliares/stmpili_v10.php:455
+#: stmpili_v0.8.php:461
+msgid "Mostrar título de la taxonomía"
+msgstr "Show Title of Taxonomy"
+
+#: Versiones antiguas y auxiliares/stmpili.php:708
+#: auxiliares/stmpili_v0.1.php:470 auxiliares/stmpili_v0.2.php:477
+#: auxiliares/stmpili_v0.3.php:477 auxiliares/stmpili_v0.4.php:478
+#: auxiliares/stmpili_v0.5.php:478 auxiliares/stmpili_v0.6.php:478
+#: auxiliares/stmpili_v0.7.php:478 auxiliares/stmpili_v10.php:476
+#: stmpili_v0.8.php:479
+msgid "Mostrar descripción de la taxonomía"
+msgstr "Show Description of Taxonomy"
+
+#: Versiones antiguas y auxiliares/stmpili.php:729
+#: auxiliares/stmpili_v0.1.php:491 auxiliares/stmpili_v0.2.php:498
+#: auxiliares/stmpili_v0.3.php:498 auxiliares/stmpili_v0.4.php:499
+#: auxiliares/stmpili_v0.5.php:499 auxiliares/stmpili_v0.6.php:499
+#: auxiliares/stmpili_v0.7.php:499 auxiliares/stmpili_v10.php:497
+#: stmpili_v0.8.php:500
+msgid "Logo espacios vacíos"
+msgstr "Logo in Empty Spaces"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:72
+#: auxiliares/stmpili_v0.2.php:72 auxiliares/stmpili_v0.3.php:72
+#: auxiliares/stmpili_v0.4.php:73 auxiliares/stmpili_v0.5.php:73
+#: auxiliares/stmpili_v0.6.php:73 auxiliares/stmpili_v0.7.php:73
+#: auxiliares/stmpili_v10.php:72 stmpili_v0.8.php:73
+msgid "Todas las composiciones"
+msgstr "All Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:73
+#: auxiliares/stmpili_v0.2.php:73 auxiliares/stmpili_v0.3.php:73
+#: auxiliares/stmpili_v0.4.php:74 auxiliares/stmpili_v0.5.php:74
+#: auxiliares/stmpili_v0.6.php:74 auxiliares/stmpili_v0.7.php:74
+#: auxiliares/stmpili_v10.php:73 stmpili_v0.8.php:74
+msgid "Editar la composición"
+msgstr "Edit Composition"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:74
+#: auxiliares/stmpili_v0.2.php:74 auxiliares/stmpili_v0.3.php:74
+#: auxiliares/stmpili_v0.4.php:75 auxiliares/stmpili_v0.5.php:75
+#: auxiliares/stmpili_v0.6.php:75 auxiliares/stmpili_v0.7.php:75
+#: auxiliares/stmpili_v10.php:74 stmpili_v0.8.php:75
+msgid "Ver la composición"
+msgstr "View the Composition"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:75
+#: auxiliares/stmpili_v0.2.php:75 auxiliares/stmpili_v0.3.php:75
+#: auxiliares/stmpili_v0.4.php:76 auxiliares/stmpili_v0.5.php:76
+#: auxiliares/stmpili_v0.6.php:76 auxiliares/stmpili_v0.7.php:76
+#: auxiliares/stmpili_v10.php:75 stmpili_v0.8.php:76
+msgid "Actualizar la composición"
+msgstr "Update the Composition"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:76
+#: auxiliares/stmpili_v0.2.php:76 auxiliares/stmpili_v0.3.php:76
+#: auxiliares/stmpili_v0.4.php:77 auxiliares/stmpili_v0.5.php:77
+#: auxiliares/stmpili_v0.6.php:77 auxiliares/stmpili_v0.7.php:77
+#: auxiliares/stmpili_v10.php:76 stmpili_v0.8.php:77
+msgid "Añadir nueva composicón"
+msgstr "Add New Composition"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:77
+#: auxiliares/stmpili_v0.2.php:77 auxiliares/stmpili_v0.3.php:77
+#: auxiliares/stmpili_v0.4.php:78 auxiliares/stmpili_v0.5.php:78
+#: auxiliares/stmpili_v0.6.php:78 auxiliares/stmpili_v0.7.php:78
+#: auxiliares/stmpili_v10.php:77 stmpili_v0.8.php:78
+msgid "Nombre de la nueva composición"
+msgstr "New Composition Name"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:78
+#: auxiliares/stmpili_v0.2.php:78 auxiliares/stmpili_v0.3.php:78
+#: auxiliares/stmpili_v0.4.php:79 auxiliares/stmpili_v0.5.php:79
+#: auxiliares/stmpili_v0.6.php:79 auxiliares/stmpili_v0.7.php:79
+#: auxiliares/stmpili_v10.php:78 stmpili_v0.8.php:79
+msgid "Nombre composición superior"
+msgstr "Name Higher Composition"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:79
+#: auxiliares/stmpili_v0.2.php:79 auxiliares/stmpili_v0.3.php:79
+#: auxiliares/stmpili_v0.4.php:80 auxiliares/stmpili_v0.5.php:80
+#: auxiliares/stmpili_v0.6.php:80 auxiliares/stmpili_v0.7.php:80
+#: auxiliares/stmpili_v10.php:79 stmpili_v0.8.php:80
+msgid "Nombre composición superior:"
+msgstr "Name Higher Composition"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:80
+#: auxiliares/stmpili_v0.2.php:80 auxiliares/stmpili_v0.3.php:80
+#: auxiliares/stmpili_v0.4.php:81 auxiliares/stmpili_v0.5.php:81
+#: auxiliares/stmpili_v0.6.php:81 auxiliares/stmpili_v0.7.php:81
+#: auxiliares/stmpili_v10.php:80 stmpili_v0.8.php:81
+msgid "Buscar composiciones"
+msgstr "Search Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:82
+#: auxiliares/stmpili_v0.2.php:82 auxiliares/stmpili_v0.3.php:82
+#: auxiliares/stmpili_v0.4.php:83 auxiliares/stmpili_v0.5.php:83
+#: auxiliares/stmpili_v0.6.php:83 auxiliares/stmpili_v0.7.php:83
+#: auxiliares/stmpili_v10.php:82 stmpili_v0.8.php:83
+msgid "Separar las composiciones con comas"
+msgstr "Separate Compositions with comma"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:83
+#: auxiliares/stmpili_v0.2.php:83 auxiliares/stmpili_v0.3.php:83
+#: auxiliares/stmpili_v0.4.php:84 auxiliares/stmpili_v0.5.php:84
+#: auxiliares/stmpili_v0.6.php:84 auxiliares/stmpili_v0.7.php:84
+#: auxiliares/stmpili_v10.php:83 stmpili_v0.8.php:84
+msgid "Añadir o eliminar composiciones"
+msgstr "Append or Remove Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:84
+#: auxiliares/stmpili_v0.2.php:84 auxiliares/stmpili_v0.3.php:84
+#: auxiliares/stmpili_v0.4.php:85 auxiliares/stmpili_v0.5.php:85
+#: auxiliares/stmpili_v0.6.php:85 auxiliares/stmpili_v0.7.php:85
+#: auxiliares/stmpili_v10.php:84 stmpili_v0.8.php:85
+msgid "Elegir entre las composiciones más utilizadas"
+msgstr "Select between most frequent Compositions"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.1.php:276
+#: auxiliares/stmpili_v0.3.php:283 auxiliares/stmpili_v0.4.php:284
+#: auxiliares/stmpili_v0.5.php:284 auxiliares/stmpili_v0.6.php:284
+#: auxiliares/stmpili_v0.7.php:284 stmpili_v0.8.php:285
+msgid "Porcentaje de aumento"
+msgstr "Percentage Increase"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.7.php:1812 stmpili_v0.8.php:1824
+msgid "Anterior"
+msgstr "Previous"
+
+#: Versiones antiguas y auxiliares/stmpili_v0.7.php:1844
+#: auxiliares/stmpili_v0.7.php:1851 stmpili_v0.8.php:1856 stmpili_v0.8.php:1863
+msgid "Siguiente"
+msgstr "Next"
+
+#: stmpili_v0.8.php:551
+msgid "Personalización CSS"
+msgstr "Custom CSS"

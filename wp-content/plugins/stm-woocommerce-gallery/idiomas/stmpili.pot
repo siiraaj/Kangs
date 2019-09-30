@@ -1,0 +1,332 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"WordPress Blank Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2016-12-26 09:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"1.8.11\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: "
+"stm-woocommerce-gallery."
+"php\n"
+
+#: stm-woocommerce-gallery.php:69
+#: stm-woocommerce-gallery.php:70
+msgid "Composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:71
+#: stm-woocommerce-gallery.php:89
+msgid "Composiciones"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:72
+msgid ""
+"Todas las composiciones"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:73
+msgid ""
+"Editar la composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:74
+msgid "Ver la composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:75
+msgid ""
+"Actualizar la composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:76
+msgid ""
+"Añadir nueva composicón"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:77
+msgid ""
+"Nombre de la nueva "
+"composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:78
+msgid ""
+"Nombre composición "
+"superior"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:79
+msgid ""
+"Nombre composición "
+"superior:"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:80
+msgid ""
+"Buscar composiciones"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:81
+msgid ""
+"Composiciones más "
+"populares"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:82
+msgid ""
+"Separar las "
+"composiciones con comas"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:83
+msgid ""
+"Añadir o eliminar "
+"composiciones"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:84
+msgid ""
+"Elegir entre las "
+"composiciones más "
+"utilizadas"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:85
+msgid ""
+"Composición no encontrada"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:157
+#: stm-woocommerce-gallery.php:219
+msgid ""
+"Características "
+"mejoradas en STM "
+"WooCommerce Gallery "
+"v.2.1."
+msgstr ""
+
+#: stm-woocommerce-gallery.php:162
+#: stm-woocommerce-gallery.php:224
+msgid ""
+"Opciones de fondo de la "
+"composicion ( color, "
+"transparencia, imagen)"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:163
+#: stm-woocommerce-gallery.php:225
+msgid ""
+"Inserción logo personal "
+"en huecos entre imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:164
+#: stm-woocommerce-gallery.php:226
+msgid ""
+"Campo personalización CSS"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:165
+#: stm-woocommerce-gallery.php:227
+msgid ""
+"Campo ajuste final imagen"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:166
+#: stm-woocommerce-gallery.php:228
+msgid ""
+"Diseño adaptativo "
+"\"responsive\""
+msgstr ""
+
+#: stm-woocommerce-gallery.php:167
+#: stm-woocommerce-gallery.php:229
+msgid ""
+"Desplazamiento ( fade ) "
+"entre imágenes en el "
+"lightbox"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:168
+#: stm-woocommerce-gallery.php:230
+msgid ""
+"Ajuste de la altura de "
+"la última matriz"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:169
+#: stm-woocommerce-gallery.php:231
+msgid ""
+"Slider para el cambio de "
+"matrices"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:170
+#: stm-woocommerce-gallery.php:232
+msgid ""
+"Matrización de la "
+"composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:171
+#: stm-woocommerce-gallery.php:233
+msgid ""
+"Filtro por categorías"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:172
+#: stm-woocommerce-gallery.php:234
+msgid ""
+"Gestión de las imágenes "
+"en la página de edición "
+"de la taxonomía"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:173
+#: stm-woocommerce-gallery.php:235
+msgid ""
+"Definir qué imágenes "
+"estarán destacadas"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:174
+#: stm-woocommerce-gallery.php:236
+msgid ""
+"Atributos específicos "
+"para las imágenes "
+"destacadas"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:175
+#: stm-woocommerce-gallery.php:237
+msgid ""
+"Inclusión información "
+"adicional de producto en "
+"lightbox"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:181
+#: stm-woocommerce-gallery.php:241
+msgid ""
+"Actualiza ya a STM "
+"WooCommerce Gallery "
+"v.2.1."
+msgstr ""
+
+#: stm-woocommerce-gallery.php:247
+msgid ""
+"Color margen imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:255
+msgid ""
+"Grosor margen imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:263
+msgid ""
+"Redondeo margen imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:274
+msgid ""
+"Color borde imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:282
+msgid ""
+"Grosor borde imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:290
+msgid ""
+"Redondeo borde imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:301
+msgid ""
+"Color sombra imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:309
+msgid ""
+"Grosor sombra imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:317
+msgid ""
+"Separación entre imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:328
+msgid "Aumento imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:346
+msgid ""
+"Porcentaje de aumento"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:354
+msgid "Girado imágenes"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:377
+msgid ""
+"Tipo cambio composición"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:385
+#: stm-woocommerce-gallery.php:392
+msgid "Cambio"
+msgstr ""
+
+#: stm-woocommerce-gallery.php:387
+#: stm-woocommerce-gallery.php:394
+msgid "Transición"
+msgstr ""
